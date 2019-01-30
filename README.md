@@ -15,4 +15,4 @@
 * ### France
   |   University   |      Languages      |  Sources  |
   |:----------:|:-------------:|:------:|
-  | **[Université de Lorraine](https://github.com/xchopin/OpenLRW-scripts)**|  Python, Bash, Logstash | LDAP, Moodle, Apogée |
+  | **[Université de Lorraine](https://github.com/xchopin/OpenLRW-scripts)**|  Python, Bash, Logstash | CAS, LDAP, Moodle, Apogée |
