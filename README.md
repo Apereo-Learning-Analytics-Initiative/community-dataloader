@@ -1,5 +1,12 @@
 # Community dataloaders
-> A list of repositories where you can find examples for loading data into OpenLRW
+#### A list of repositories where you can find examples for loading data into OpenLRW
+
+
+# Table of Contents
+* [America](america)
+* [Europe](europe)
+
+
 
 ## America
 * ### Canada
