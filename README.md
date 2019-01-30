@@ -2,24 +2,25 @@
 #### A list of repositories where you can find examples for loading data into OpenLRW
 
 
-# Table of Contents
-* [America](#i-america)
+##  Table of Contents
+* [America](#america)
 * [Europe](#europe)
 
+<br>
 
-
-## I. America
-* ### Canada
+##  Community
+### America
+* ####  Canada
   |   University   |      Languages      |  Sources  |
   |:----------|:-------------:|:------:|
   | |||
-* ### United States
+* ####  United States
   |   University   |      Languages      |  Sources  |
   |:----------|:-------------:|:------:|
   | |||
 
-## Europe
-* ### France
+### Europe
+* #### France
   |   University   |      Languages      |  Sources  |
   |:----------:|:-------------:|:------:|
   | **[Université de Lorraine](https://github.com/xchopin/OpenLRW-scripts)**|  Python, Bash, Logstash | CAS, LDAP, Moodle, Apogée |
