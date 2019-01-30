@@ -3,12 +3,12 @@
 
 
 # Table of Contents
-* [America](america)
-* [Europe](europe)
+* [America](#i-america)
+* [Europe](#europe)
 
 
 
-## America
+## I. America
 * ### Canada
   |   University   |      Languages      |  Sources  |
   |:----------|:-------------:|:------:|
